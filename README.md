@@ -22,3 +22,7 @@
 2. `git add` — добавление изменений в staging
 3. `git commit` — создание коммита
 4. `git push` — отправка изменений на GitHub
+
+## Branch practice
+
+Этот раздел добавлен в отдельной feature-ветке.
